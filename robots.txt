@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aladin1h.github.io/sitemap.xml
