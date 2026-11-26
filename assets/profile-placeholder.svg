@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 504" width="480" height="504">
+  <!-- Placeholder portrait. Replace with images/profile.jpg (see index.html TODO). -->
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#dbe2df" stroke-width="1"/></pattern></defs>
+  <rect width="480" height="504" fill="#eaf0f3"/>
+  <rect width="480" height="504" fill="url(#g)"/>
+  <circle cx="240" cy="200" r="78" fill="#c6d4de"/>
+  <path d="M90 504c8-96 72-160 150-160s142 64 150 160z" fill="#c6d4de"/>
+  <text x="240" y="216" text-anchor="middle" font-family="IBM Plex Mono, Menlo, monospace" font-size="44" font-weight="500" fill="#1d5c87">AA</text>
+</svg>

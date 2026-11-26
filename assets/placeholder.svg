@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Generic placeholder. Replace with your own image (see README). -->
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#dfe4e1" stroke-width="1"/></pattern>
+    <pattern id="G" width="100" height="100" patternUnits="userSpaceOnUse"><rect width="100" height="100" fill="url(#g)"/><path d="M100 0H0V100" fill="none" stroke="#cfd6d2" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="800" height="500" fill="#eef1ef"/>
+  <rect width="800" height="500" fill="url(#G)"/>
+  <g fill="none" stroke="#8aa3b5" stroke-width="2" stroke-linejoin="round" transform="translate(400 220)">
+    <path d="M0 -70 L70 -32 L70 38 L0 76 L-70 38 L-70 -32 Z"/>
+    <path d="M-70 -32 L0 6 L70 -32 M0 6 V76"/>
+    <path d="M0 6 L0 -70" stroke-dasharray="5 6" opacity=".55"/>
+  </g>
+  <g stroke="#1d5c87" stroke-width="1.5" opacity=".5"><path d="M380 226h40M400 206v40"/></g>
+  <text x="400" y="352" text-anchor="middle" font-family="IBM Plex Mono, Menlo, Consolas, monospace" font-size="18" fill="#6c7a86" letter-spacing="1">IMAGE TO BE ADDED</text>
+</svg>
